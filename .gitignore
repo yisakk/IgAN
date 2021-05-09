@@ -4,6 +4,7 @@ mask/
 models_v1/
 patches/
 results/
+models_v2/
 
 # .ipython
 .ipynb_checkpoints/
